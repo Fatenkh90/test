@@ -1,0 +1,4 @@
+Why DevOps is important
+
+One of the latest invention or trend in the world of software development is DevOps. In this field, the team of developers works with the operations staff to make sure that the software will run effectively and efficiently.  Most of the teams connected with software development are going for the DevOps.
+
