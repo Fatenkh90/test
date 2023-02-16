@@ -2,3 +2,15 @@ Why DevOps is important
 
 One of the latest invention or trend in the world of software development is DevOps. In this field, the team of developers works with the operations staff to make sure that the software will run effectively and efficiently.  Most of the teams connected with software development are going for the DevOps.
 
+
+1. The technical benefit includes the delivery of software that too continuously. It has the benefit of having less complex problems to fix. It also has the benefit of faster and easier resolutions to every problem. 
+2. The business-related benefits include faster delivery of features and it also has the advantage of having more stable operating environments. The benefits also include more time so that more value can be added. 
+3. One of the important reasons is that DevOps provides the system for best communication. During the stage of production, there may arise certain problem related to blockage or delayed on progression. There are many teams involved during the production stage and to make a smooth collaboration between the teams DevOps is necessary. This will help you in having an idea about each and every prospect of the project. 
+4. When there are bad developers, DevOps will slow them down. A company comprises of all kind of developers from excellent to very bad. The concept of DevOps will remove the bad developers since the bad codes that are produced by the developers will be left to be corrected. While the codes developed by the good developers will be released to the next level with the help of the DevOps model. This feature is not allowed in meetings. 
+5. Also, the advantage of learning DevOps is that it has significant shorter time to a market facility. 
+6. The DevOps will also facilitate for the better quality of a product.
+7.  Another advantage of learning DevOps is that it has more reliable releases.
+8. The concept of DevOps helps in increasing the ability to develop the correct products by the concept of fast experimentation.
+9. Another great advantage is that it helps in improved productivity. 
+10. The DevOps also helps in increasing the efficiency and improvement of customer satisfaction. Quality of products is generally better when there are the applications of DevOps since it has a better productivity and also efficiency.
+
